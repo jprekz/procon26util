@@ -1,0 +1,9 @@
+{
+	"name": "procon26util",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, jprekz",
+	"authors": ["jprekz"],
+	"targetName": "p26utl",
+	"dependencies": {
+	}
+}
